@@ -1,0 +1,7 @@
+#notes{
+    display: flex;
+    flex-wrap: wrap;
+}
+.cards{
+    margin: 2em;
+}
